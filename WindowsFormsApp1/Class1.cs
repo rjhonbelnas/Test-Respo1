@@ -8,5 +8,9 @@ namespace WindowsFormsApp1
 {
     class Class1
     {
+        public void ckaxa()
+        {
+
+        }
     }
 }
